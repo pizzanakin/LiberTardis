@@ -1,0 +1,9 @@
+name: LiberTardis
+main: net.libercraft.libertardis.LiberTardis
+version: 1.0
+api-version: 1.13
+depend: [LiberCore]
+commands:
+  tardis:
+    description: Interact with your tardis
+    usage: /tardis
